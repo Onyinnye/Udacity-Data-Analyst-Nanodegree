@@ -18,3 +18,6 @@ in this project, I analysed the No-show Appointment dataset which is available i
 - SMS and Sholarship didn,t really seem to improve the rsponseof patients for appointments
 - Majority of the visits happend from Jardim Camburi, but there was not much information to further explore reasons why it is so. the most logicl eplaination is that majority of the patients reside in the neighbourhood
 ### I particularly enjoyed this project because I got mind blowing commendations from my reviewer which I'll be sharing with you 😃 😃
+
+#Project 3: Analyze_A_B Test Analysis
+In this project, I worked to understand the results of an A/B test run by a hypothetical e-commerce website. The analysis is a standard statistical z-test to compare two populations as well as a numerically simulated version of the statistical z-test. Finally, a logistic regression is run to see if the new page outperforms the old page in terms of probability of converting the visitor to a customer.
