@@ -18,3 +18,11 @@ in this project, I analysed the No-show Appointment dataset which is available i
 - SMS and Sholarship didn,t really seem to improve the rsponseof patients for appointments
 - Majority of the visits happend from Jardim Camburi, but there was not much information to further explore reasons why it is so. the most logicl eplaination is that majority of the patients reside in the neighbourhood
 ### I particularly enjoyed this project because I got mind blowing commendations from my reviewer which I'll be sharing with you 😃 😃
+
+#Project 3: Analyze_A_B Test Analysis
+In this project, I worked to understand the results of an A/B test run by a hypothetical e-commerce website. The analysis is a standard statistical z-test to compare two populations as well as a numerically simulated version of the statistical z-test. Finally, a logistic regression is run to see if the new page outperforms the old page in terms of probability of converting the visitor to a customer.
+# Project 4: Data Wrangling
+ In this project, I analysed the WeRateDogs twitter account. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc." WeRateDogs has over 8.9M followers (on February 2020) and has received international media coverage. The account also has a branded game, a popular online store, and a book that was published in Fall, 2017.
+- I Wrangled WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for the analyses and visualizations.
+- I particularly found this project challenging as I got the highest review to make some adjustments, but what is life without hurdles 😃....The most important thing is not to let the hurdles stop you as I did with this project 😃 😃
+
