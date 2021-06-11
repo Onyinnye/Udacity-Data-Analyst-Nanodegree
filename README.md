@@ -26,3 +26,8 @@ In this project, I worked to understand the results of an A/B test run by a hypo
 - I Wrangled WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for the analyses and visualizations.
 - I particularly found this project challenging as I got the highest review to make some adjustments, but what is life without hurdles 😃....The most important thing is not to let the hurdles stop you as I did with this project 😃 😃
 
+# Project 5 : Communicating data findings
+In this Project, I explored the Loan data set from propsper contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate)current loan status, borrower income, and many others which was trimmed down to 76,224 loans and 21 vaiables the features of interest include BorrowerState, IncomeVerifiable, Occupation,EmploymentStatus,BorrowerRate, IsBorrowerHomeowner, ListingCategory_Numeric,Recommendations, MonthlyLoanPayment, LoanOriginalAmount,LoanOriginationDate, LoanStatus, DebtToIncomeRatio, IncomeRange, ProsperScore, StatedMonthlyIncome, PercentFunded to know how  different variables in the dataset affect granting and recieving loan.
+- I explored and cleaned the data
+- I explained the data usin matplotlib and Seaborne for my visualizations
+- This Project was my next favorite as I told a story with the dataset and also got an awesome review from the reviewer which of course I shared with Y'all 😃 😃
